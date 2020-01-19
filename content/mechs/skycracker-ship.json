@@ -16,6 +16,7 @@
 	"health": 125,
 	"weaponOffsetX": 4.0,
 	"rotateWeapon": true,
+	"ignoreRotation": true,
 	"weapon": {
 		"length": 0.5,
 		"width": 2.0,

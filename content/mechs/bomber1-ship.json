@@ -12,7 +12,7 @@
 	"engineOffset": 0.0,
 	"engineSize": 0.0,
 	"health": 950,
-	"rotateWeapon": true,
+	"ignoreRotation": true,
 	"weapon": {
 		"length": -2.0,
 		"width": 4.0,
@@ -20,7 +20,6 @@
 		"recoil": 0.5,
 		"reload": 30,
 		"alternate": true,
-		"ignoreRotation": true,
 		"bullet": {
 			"type": "bombBulletType",
 			"bulletWidth": 14,
