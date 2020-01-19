@@ -1,7 +1,7 @@
 {
 	"name": "Plane :3",
 	"description": "Just a Airplane.",
-	"speed": 0.15,
+	"speed": 0.14,
 	"drag": 0.015,
 	"maxSpeed": 9.0,
 	"mass": 4.1,
