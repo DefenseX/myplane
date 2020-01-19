@@ -1,0 +1,16 @@
+{
+	"name": "Plane :3 Ship Pad",
+	"description": "Transform into the AiPlane :3.",
+	"type": "MechPad",
+	"mech": "airplane-ship",
+	"size": 4,
+	"consumes": {
+		"power": 0.25
+	},
+	"category": "upgrade",
+	"research": "copper-wall",
+	"requirements": [
+		{ "item": "copper", "amount": 500 },
+		{ "item": "lead", "amount": 500 }
+	]
+}

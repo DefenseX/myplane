@@ -1,0 +1,27 @@
+{
+	"name": "Excutioner Bomber Ship",
+	"description": "Very dangerous, but slow spaceship.",
+	"speed": 0.1,
+	"drag": 0.021,
+	"maxSpeed": 1.2,
+	"mass": 10.8,
+	"engineColor": "ff4900",
+	"flying": true,
+	"rotatespeed": 0.01,
+	"hitSize": 22,
+	"turnCursor": false,
+	"engineOffset": 3.0,
+	"engineSize": 1.5,
+	"health": 340,
+	"rotateWeapon": true,
+	"weapon": {
+		"length": 0.5,
+		"width": 5.0,
+		"spacing": 1.0,
+		"recoil": 0.5,
+		"reload": 4,
+		"alternate": true,
+		"bullet": "bombIncendiary",
+	"shootSound": "shootSnap"
+	}
+}

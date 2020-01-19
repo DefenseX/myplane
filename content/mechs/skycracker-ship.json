@@ -1,0 +1,40 @@
+{
+	"name": "SkyCracker MK.I",
+	"description": "Battle Aircraft.",
+	"speed": 0.3,
+	"drag": 0.012,
+	"maxSpeed": 9.0,
+	"mass": 2.8,
+	"engineColor": "ff4900",
+	"flying": true,
+	"rotatespeed": 0.02,
+	"baseRotatespeed": 0.02,
+	"hitSize": 20,
+	"turnCursor": false,
+	"engineOffset": 2.0,
+	"engineSize": 0.5,
+	"health": 125,
+	"weaponOffsetX": 4.0,
+	"rotateWeapon": true,
+	"weapon": {
+		"length": 0.5,
+		"width": 2.0,
+		"spacing": 1.0,
+		"length": 9.5,
+		"width": 0.0,
+		"recoil": 0.5,
+		"reload": 5,
+		"alternate": true,
+		"bullet": {
+			"speed": 9.5,
+			"homingPower": 0.1,
+			"homingRange": 50,
+			"lifetime": 60,
+			"damage": 5,
+			"bulletWidth": 2,
+			"bulletHeight": 6,
+			"shootEffect": "shootSmall"
+		},
+	"shootSound": "shootSnap"
+	}
+}

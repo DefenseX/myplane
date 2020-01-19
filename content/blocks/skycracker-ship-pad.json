@@ -1,0 +1,17 @@
+{
+	"name": "SkyCracker MK.I Ship Pad",
+	"description": "Transform into the SkyCracker Aircraft.",
+	"type": "MechPad",
+	"mech": "skycracker-ship",
+	"size": 4,
+	"consumes": {
+		"power": 0.35
+	},
+	"category": "upgrade",
+	"research": "copper-wall",
+	"requirements": [
+		{ "item": "titanium", "amount": 250 },
+		{ "item": "copper", "amount": 250 },
+		{ "item": "lead", "amount": 350 }
+	]
+}

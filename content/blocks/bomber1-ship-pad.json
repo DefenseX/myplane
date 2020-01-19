@@ -1,0 +1,19 @@
+{
+	"name": "MK.I Bomber Pad",
+	"description": "Transform into the MK.I Bomber ship.",
+	"type": "MechPad",
+	"mech": "bomber1-ship",
+	"size": 4,
+	"consumes": {
+		"power": 0.45
+	},
+	"category": "upgrade",
+	"research": "skycracker-ship-pad",
+	"requirements": [
+		{ "item": "titanium", "amount": 500 },
+		{ "item": "copper", "amount": 1000 },
+		{ "item": "graphite", "amount": 250 },
+		{ "item": "thorium", "amount": 150 },
+		{ "item": "lead", "amount": 300 }
+	]
+}

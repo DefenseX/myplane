@@ -1,0 +1,17 @@
+type: minerDrone
+name: Heavy collecter
+description: Big Special Miner Drone
+speed: 0.025
+maxVelocity: 1.2
+hitsize: 3.0
+drag: 0.025
+flying: true
+health: 350
+engineOffset: 8.0
+range: 90
+itemcapacity: 250
+minePower: 4.0
+mineSpeed: 3.0
+weapon: {
+bullet: lancerLaser
+}
